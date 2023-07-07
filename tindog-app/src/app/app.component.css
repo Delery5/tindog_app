@@ -1,0 +1,319 @@
+.title-page {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: 700px;
+  background: linear-gradient(300deg, #00bfff, #ff4c68, #ef8172);
+  background-size: 180% 180%;
+  animation: gradient-animation 18s ease infinite;
+}
+
+.left-section {
+}
+
+.right-section {
+}
+
+.dog-title {
+  font-size: 70px;
+  font-weight: bold;
+  margin-top: 250px;
+  margin-left: 160px;
+}
+
+.iphone-pic {
+  margin-top: 106px;
+}
+
+.apple1-icon {
+  width: 180px;
+  height: 60px;
+  margin-left: 160px;
+  position: relative;
+  bottom: 40px;
+  border-radius: 10px;
+  font-size: 23px;
+  background-color: white;
+  border-color: transparent;
+}
+
+.apple1-icon:hover {
+  opacity: 0.8;
+}
+
+.apple2-icon {
+  width: 180px;
+  height: 60px;
+  margin-left: 80px;
+  position: relative;
+  bottom: 40px;
+  border-radius: 10px;
+  font-size: 23px;
+  background-color: transparent;
+  border-color: white;
+}
+
+.apple2-icon:hover {
+  opacity: 0.8;
+  background-color: white;
+}
+
+.body1-page {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-rows: 350px;
+}
+
+.first-body1 {
+  margin-top: 100px;
+}
+
+.check-icon {
+  font-family: "Material Symbols Outlined";
+  font-weight: normal;
+  font-style: normal;
+  font-size: 40px;
+  height: 45px;
+  border-style: solid;
+  border: none;
+  background-color: lightgray;
+  border-radius: 10px;
+  margin-left: 150px;
+}
+
+.firstbody-boldtext {
+  display: flex;
+  flex: 1;
+}
+
+.easy-text {
+  font-weight: bold;
+  font-size: 33px;
+}
+
+.othereasy-text {
+  margin-left: 190px;
+}
+
+.first-body2 {
+}
+
+.school-icon {
+  font-family: "Material Symbols Outlined";
+  font-weight: normal;
+  font-style: normal;
+  font-size: 40px;
+  height: 45px;
+  border-style: solid;
+  border: none;
+  background-color: lightgray;
+  border-radius: 10px;
+  margin-left: 150px;
+}
+
+.firstbody-boldtext2 {
+  display: flex;
+  flex: 1;
+}
+
+.easy-text2 {
+  font-weight: bold;
+  font-size: 33px;
+}
+
+.othereasy-text2 {
+  margin-left: 190px;
+}
+
+.first-body2 {
+}
+
+.heart-icon {
+  font-family: "Material Symbols Outlined";
+  font-weight: normal;
+  font-style: normal;
+  font-size: 40px;
+  height: 45px;
+  border-style: solid;
+  border: none;
+  background-color: lightgray;
+  border-radius: 10px;
+  margin-left: 150px;
+}
+
+.firstbody-boldtext3 {
+  display: flex;
+  flex: 1;
+}
+
+.easy-text3 {
+  font-weight: bold;
+  font-size: 33px;
+}
+
+.othereasy-text3 {
+  margin-left: 190px;
+}
+
+.content {
+}
+
+.long-text {
+  font-size: 38px;
+  margin-left: 108px;
+}
+
+.long-text2 {
+  font-size: 38px;
+  margin-left: 700px;
+}
+
+.doggy-pic {
+  width: 100px;
+  border-radius: 60px;
+  margin-top: 50px;
+  margin-left: 700px;
+}
+
+.doggy-text {
+  margin-left: 672px;
+  font-size: 20px;
+  margin-top: 10px;
+}
+
+.pics-pic {
+  display: flex;
+  margin-top: 50px;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+.techcrunch-pic {
+  width: 170px;
+}
+
+.mashable-pic {
+  width: 170px;
+}
+
+.bizinsider-pic {
+  width: 170px;
+}
+
+.tnw-pic {
+  width: 65px;
+}
+
+.dogplan-text {
+  display: flex;
+  justify-content: center;
+  font-size: 60px;
+  margin-top: 120px;
+}
+
+.simple-text {
+  display: flex;
+  justify-content: center;
+  font-size: 18px;
+  margin-top: 10px;
+}
+
+.prices {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-rows: 330px;
+  margin-top: 30px;
+  margin-bottom: 70px;
+}
+
+.chihua {
+  outline: black;
+  outline-style: solid;
+  border-radius: 20px;
+  width: 450px;
+}
+
+.chi-text {
+  display: flex;
+  justify-content: center;
+  font-size: 25px;
+  margin-top: 10px;
+}
+
+.monthly0 {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+  font-size: 35px;
+}
+
+.plans {
+  display: flex;
+  justify-content: center;
+}
+
+.signup {
+  display: flex;
+  justify-content: center;
+}
+
+.signup-button {
+  width: 400px;
+  height: 50px;
+  border-radius: 10px;
+}
+
+.signup-button:hover {
+  opacity: 0.8;
+  background-color: lightgrey;
+}
+
+.up-button {
+  width: 400px;
+  height: 50px;
+  border-radius: 10px;
+  background-color: black;
+  color: white;
+  border-color: transparent;
+}
+
+.up-button:hover {
+  opacity: 0.8;
+}
+
+.upup-button {
+  width: 400px;
+  height: 50px;
+  border-radius: 10px;
+  background-color: black;
+  color: white;
+  border-color: transparent;
+}
+
+.upup-button:hover {
+  opacity: 0.8;
+}
+
+footer {
+  background: linear-gradient(300deg, #00bfff, #ff4c68, #ef8172);
+  background-size: 180% 180%;
+  animation: gradient-animation 18s ease infinite;
+  height: 330px;
+}
+
+.footer-info {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: 300px;
+}
+
+.tin {
+  display: flex;
+  justify-content: center;
+  margin-right: 80px;
+  margin-top: 45px;
+}
+
+.sec {
+  margin-top: 45px;
+  margin-left: 18px;
+}
